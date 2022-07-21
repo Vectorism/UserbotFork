@@ -1,5 +1,5 @@
 {
-  "name": "Man-Userbot",
+  "name": "Vectorism Userbot",
   "description": "This is UserBot Telegram with many cool modules. Written in Python with Telethon and Py-Tgcalls.",
   "stack": "container",
   "env": {
